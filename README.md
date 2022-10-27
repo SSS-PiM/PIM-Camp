@@ -28,11 +28,11 @@ sudo apt-get install build-essential
 
 * 生成秘钥
 
-```shell
-ssh-keygen -t rsa
-```
+  ```shell
+  ssh-keygen -t rsa
+  ```
 
-
+  
 
 * 注册 Github 账号
 
@@ -54,11 +54,13 @@ ssh-keygen -t rsa
 
 #### NeuroSim
 
-```shell
-git clone git@github.com:neurosim/MLP_NeuroSim_V3.0.git
-```
+* 拉代码
 
+  ```shell
+  git clone git@github.com:neurosim/MLP_NeuroSim_V3.0.git
+  ```
 
+  
 
 
 

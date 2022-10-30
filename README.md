@@ -70,4 +70,4 @@ sudo apt-get install build-essential
 
 
 
-### week2 - 加速器简介
+### [week2 - 加速器简介](./week2/加速器.md)

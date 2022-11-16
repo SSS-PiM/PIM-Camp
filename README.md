@@ -54,3 +54,6 @@ sudo apt-get install build-essential
 ### [week2 - 加速器简介](./week2/加速器.md)
 
 ### [week3 - MNSIM简介](./week3/mnsim.md)
+
+### [week4 - NeuroSim简介](./week4/Neurosim.pptx)
+

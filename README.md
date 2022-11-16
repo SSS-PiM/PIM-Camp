@@ -57,4 +57,4 @@ sudo apt-get install build-essential
 
 ### [week4 - NeuroSim简介](./week4/Neurosim.pptx)
 
-### [week5 - 实验说明书](./week5/Lab Instruction.pdf)
+### [week5 - 实验说明书](./week5/Instruction.pdf)

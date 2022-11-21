@@ -50,6 +50,9 @@ sudo apt-get install build-essential
   ```
 
 ### week1 - 神经网络
+- #### [Tutorial](./week1/DNN_Tutorial.md)
+
+- #### [Lecture Note](./week1/DNN_Tutorial_LN.md)
 
 ### [week2 - 加速器简介](./week2/加速器.md)
 

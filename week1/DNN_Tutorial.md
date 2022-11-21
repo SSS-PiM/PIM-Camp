@@ -47,7 +47,7 @@ Deep Neural Network (DNN, 深度神经网络)的基本模型被称作Multi-Layer
 
 只选取$x_1$与$x_2$两个线性特征，调整网络结构为2层网络，每层4个节点。使用默认数据集，如下图：
 
-<img src="../image-20210602144825849.png" alt="image-20210602144825849" style="zoom:67%;" />
+<img src="../images/ring_distrib_points.png" alt="Points complying a Ring Distribution" style="zoom:67%;" />
 
 回答如下问题：
 
@@ -57,7 +57,7 @@ Deep Neural Network (DNN, 深度神经网络)的基本模型被称作Multi-Layer
 
 回答完上述问题后，请你通过左侧控制栏切换到最复杂的数据集：
 
-<img src="DNN Tutorial.assets/image-20210602145552942.png" alt="image-20210602145552942" style="zoom:67%;" />
+<img src="../images/complicated_distrib_points.png" alt="Points complying a more complicated distribution" style="zoom:67%;" />
 
 此时你可以调整所有参数，来让神经网络在这个数据集上取得良好的分类效果。记录你的心得体会。
 
@@ -65,7 +65,7 @@ Deep Neural Network (DNN, 深度神经网络)的基本模型被称作Multi-Layer
 
 HW1中提到了一个使用Sigmoid函数实现的，每层有4个节点，共2层的神经网络，为便于描述，我们做形式化定义。
 
-<img src="DNN Tutorial.assets/image-20210602151208356-1622623602831.png" alt="image-20210602151208356" style="zoom:80%;" />
+<img src="../images/simple_fc.png" alt="A simple fully connected DNN" style="zoom:80%;" />
 
 设左侧FEATURES为输入$\mathbb x$，两层网络进入激活函数前的权重矩阵为$w^{(1)}$和$w^{(2)}$，为了方便起见，不考虑偏置项$b$.
 
